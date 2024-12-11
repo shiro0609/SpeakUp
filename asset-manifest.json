@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SpeakUp/static/css/main.24d31c3e.css",
+    "main.js": "/SpeakUp/static/js/main.e3b853be.js",
+    "static/js/453.fa5f4bd5.chunk.js": "/SpeakUp/static/js/453.fa5f4bd5.chunk.js",
+    "static/media/login.webp": "/SpeakUp/static/media/login.3eb7afbac152f5898d88.webp",
+    "static/media/about-course.webp": "/SpeakUp/static/media/about-course.2090edfd7a06463f5180.webp",
+    "static/media/intro.webp": "/SpeakUp/static/media/intro.2d6cb80bc7c3a23a1665.webp",
+    "static/media/hero.webp": "/SpeakUp/static/media/hero.d7eaabfe0eeaa50c2ed0.webp",
+    "static/media/quest-img.webp": "/SpeakUp/static/media/quest-img.19e7d7af8db2c9c8d7a8.webp",
+    "static/media/course.webp": "/SpeakUp/static/media/course.ee11e25f64edbc26e2ed.webp",
+    "static/media/member.webp": "/SpeakUp/static/media/member.8d8281171f507299bbea.webp",
+    "static/media/logo.webp": "/SpeakUp/static/media/logo.d8abd809a52af0c0792e.webp",
+    "static/media/US.webp": "/SpeakUp/static/media/US.f0cf0fe0b466c02c87f3.webp",
+    "index.html": "/SpeakUp/index.html",
+    "main.24d31c3e.css.map": "/SpeakUp/static/css/main.24d31c3e.css.map",
+    "main.e3b853be.js.map": "/SpeakUp/static/js/main.e3b853be.js.map",
+    "453.fa5f4bd5.chunk.js.map": "/SpeakUp/static/js/453.fa5f4bd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24d31c3e.css",
+    "static/js/main.e3b853be.js"
+  ]
+}
